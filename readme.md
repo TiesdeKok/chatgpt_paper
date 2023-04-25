@@ -2,7 +2,7 @@
 
 *Generative LLMs and Textual Analysis in Accounting: (Chat)GPT as Research Assistant?*
 
-Paper link: [SSRN](#)
+Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658)
 
 **This repository is incomplete and still a work-in-progress**   
 
