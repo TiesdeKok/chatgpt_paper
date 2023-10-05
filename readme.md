@@ -15,7 +15,7 @@ Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658)
     - [OpenAI API - fine-tuning](/code_examples/openai/fine_tuning.ipynb)
     - [OpenAI API - ChatGPT/GPT-4 speed optimization](/code_examples/openai/batch_processing.ipynb)
     - [Replicate - zero-shot with LlaMa2 70b](/code_examples/replicate/zero_shot.ipynb)
-    - *Not yet available* [Local (Huggingface) - zero-shot](#)
+    - [Vast.AI + Huggingface - zero-shot](/code_examples/vast_ai/zero_shot.ipynb)
     - *Not yet available* [Local (Huggingface) - fine-tuning](#)
 - **3. Paper datasets**
     - *Not yet available*
