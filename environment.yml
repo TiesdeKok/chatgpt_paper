@@ -12,11 +12,10 @@ dependencies:
   - requests
   - xlrd
   - openpyxl
-  - seaborn 
-  - langchain 
   - pip:
     - tqdm
     - unidecode
     - tiktoken
     - openai
     - scikit-learn
+    - more-itertools

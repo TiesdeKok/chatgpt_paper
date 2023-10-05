@@ -4,19 +4,20 @@
 
 Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658)
 
-**This repository is incomplete and still a work-in-progress**   
+**:warning: This repository is incomplete and a work-in-progress**   
 
-### Current status:
+## Table of contents
 
-- **0. Model overview** - `full draft available`   
-    - Link: [list](https://github.com/TiesdeKok/gllm_companion/blob/main/model_overview.md)
-- **1. Working example** - `full draft available`   
-    - Link: [notebook](https://github.com/TiesdeKok/gllm_companion/blob/main/1_working_example.ipynb)
-- **2. Fine-tuning guide** - `not yet available`   
-- **3. Guide to run GLLM locally** - `not yet available`
-
-## Binder link:
-
-Want to play around with it without installing anything? Click the binder link below!
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TiesdeKok/gllm_companion/HEAD)
+- **1. GLLM provider overview**
+    - [Link](/provider_overview.md)
+- **2. Code examples**
+    - [OpenAI API - zero-shot with ChatGPT/GPT-4](/code_examples/openai/zero_shot.ipynb)
+    - [OpenAI API - fine-tuning](/code_examples/openai/fine_tuning.ipynb)
+    - [OpenAI API - ChatGPT/GPT-4 speed optimization](/code_examples/openai/batch_processing.ipynb)
+    - [Replicate - zero-shot with LlaMa2 70b](/code_examples/replicate/zero_shot.ipynb)
+    - *Not yet available* [Local (Huggingface) - zero-shot](#)
+    - *Not yet available* [Local (Huggingface) - fine-tuning](#)
+- **3. Paper datasets**
+    - *Not yet available*
+- **4. Full paper code**
+    - *Not yet available*
