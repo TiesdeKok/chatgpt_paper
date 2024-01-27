@@ -4,8 +4,6 @@
 
 Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658)
 
-**:warning: This repository is incomplete and a work-in-progress**   
-
 ## Table of contents
 
 - **1. GLLM provider overview**
@@ -16,7 +14,7 @@ Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658)
     - [OpenAI API - ChatGPT/GPT-4 speed optimization](/code_examples/openai/batch_processing.ipynb)
     - [Replicate - zero-shot with LlaMa2 70b](/code_examples/replicate/zero_shot.ipynb)
     - [Vast.AI + Huggingface - zero-shot](/code_examples/vast_ai/zero_shot.ipynb)
-    - *Not yet available* [Local (Huggingface) - fine-tuning](#)
+    - [Runpod.ai + LlaMA-Factory + Deepspeed - fine-tuning](/code_examples/runpod/finetune.ipynb)
 - **3. Paper datasets**
     - *Not yet available*
 - **4. Full paper code**
