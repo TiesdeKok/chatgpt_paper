@@ -34,7 +34,7 @@ In order to spread the fine-tuning accross multiple GPUs we will use the [Micros
 
 Go to runpod.io and start an instance with the following requirements:
 
-- GPUs: 5x Nvidia RTX 6000 ADA (~$5.70 per hour) or 3x H100 (~$12 to ~$14 per hour)
+- GPUs: 5x Nvidia RTX 6000 ADA (\~$5.70 per hour) or 3x H100 (\~$12 to \~$14 per hour)
     - Other GPU configurations will work as well if you tweak the Deepspeed config.
 - You can also select the geographic region which can matter for download speed, especially with big models.
 - Select the "RunPod Pytorch 2.1" template (i.e., Docker image)
