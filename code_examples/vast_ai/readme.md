@@ -30,18 +30,14 @@ pip install jupyterlab[all] -U
 ## Install the required Python packages
 
 pip install vllm --use-deprecated=legacy-resolver
-pip install peft==0.5.0 python-dotenv
-git clone https://github.com/OpenAccess-AI-Collective/axolotl
-pip install -e "./axolotl[flash-attn]"
-pip install datasets==2.14.4
 pip install joblib==1.3.2
 
-## Bug fix to avoid errors
+## Bug fix to avoid errors (you can safely ignore this part if it throws errors)
 
 pip uninstall -y transformer-engine
 pip uninstall -y apex
 
-## Start Jupyter lab (note this requires you to create an SSH tunnel)
+## Start Jupyter lab (note this requires you to create an SSH tunnel to access it locally)
 
 jupyter lab --port=8990 --no-browser --allow-root
 
