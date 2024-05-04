@@ -15,6 +15,7 @@ Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658)
     - [Replicate - zero-shot with LlaMa2 70b](/code_examples/replicate/zero_shot.ipynb)
     - [Vast.AI + Huggingface - zero-shot](/code_examples/vast_ai/zero_shot.ipynb)
     - [Runpod.ai + LlaMA-Factory + Deepspeed - fine-tuning](/code_examples/runpod/finetune.ipynb)
+    - [Runpod.ai + VLLM -> Fast Inference](/code_examples/runpod/fast_inference.ipynb)
 - **3. Paper dataset**
     - *Not yet available*
 - **4. Full paper code**
